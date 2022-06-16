@@ -1,3 +1,1 @@
-text for my read me
-
-and its being updated
+My first readme
